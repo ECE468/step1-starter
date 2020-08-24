@@ -1,0 +1,6 @@
+.antlr/MicroC.interp
+.antlr/MicroC.tokens
+.antlr/MicroCLexer.interp
+.antlr/MicroCLexer.java
+.antlr/MicroCLexer.tokens
+.antlr/MicroCParser.java
