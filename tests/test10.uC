@@ -3,7 +3,7 @@ float b;
 float c;
 
 int main() {
-    c = b + 1.0;
+    c = b + 1;
     a = 2;
     print (c);
 
