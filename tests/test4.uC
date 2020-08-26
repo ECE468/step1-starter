@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 int cur;
 
 int main() {
@@ -10,11 +9,3 @@ int main() {
 	
 	return 0;
 }
-=======
-int main() {
-
-    x = a + b * c;
-
-    return x;
-}
->>>>>>> master

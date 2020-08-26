@@ -4,3 +4,4 @@
 .antlr/MicroCLexer.java
 .antlr/MicroCLexer.tokens
 .antlr/MicroCParser.java
+.DS_Store

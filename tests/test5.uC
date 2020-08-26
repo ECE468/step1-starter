@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 int cur;
 
 int main() {
@@ -14,8 +13,4 @@ int main() {
 	}
 	
 	return 0;
-=======
-int main() {
-	cur = cur + 4;
->>>>>>> master
 }
